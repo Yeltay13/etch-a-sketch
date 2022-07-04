@@ -1,1 +1,1 @@
-Added README
+The Odin Project: Etch-A-Sketch
